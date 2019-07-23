@@ -1,0 +1,14 @@
+C:\Users\ehunt\source\repos\Send\bin\Debug\netcoreapp2.2\Send.deps.json
+C:\Users\ehunt\source\repos\Send\bin\Debug\netcoreapp2.2\Send.runtimeconfig.json
+C:\Users\ehunt\source\repos\Send\bin\Debug\netcoreapp2.2\Send.runtimeconfig.dev.json
+C:\Users\ehunt\source\repos\Send\bin\Debug\netcoreapp2.2\Send.dll
+C:\Users\ehunt\source\repos\Send\bin\Debug\netcoreapp2.2\Send.pdb
+C:\Users\ehunt\source\repos\Send\obj\Debug\netcoreapp2.2\Send.csprojAssemblyReference.cache
+C:\Users\ehunt\source\repos\Send\obj\Debug\netcoreapp2.2\Send.csproj.CoreCompileInputs.cache
+C:\Users\ehunt\source\repos\Send\obj\Debug\netcoreapp2.2\Send.AssemblyInfoInputs.cache
+C:\Users\ehunt\source\repos\Send\obj\Debug\netcoreapp2.2\Send.AssemblyInfo.cs
+C:\Users\ehunt\source\repos\Send\obj\Debug\netcoreapp2.2\Send.dll
+C:\Users\ehunt\source\repos\Send\obj\Debug\netcoreapp2.2\Send.pdb
+C:\Users\ehunt\source\repos\Send\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\ehunt\source\repos\Send\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\ehunt\source\repos\Send\obj\Debug\netcoreapp2.2\Send.csproj.CopyComplete

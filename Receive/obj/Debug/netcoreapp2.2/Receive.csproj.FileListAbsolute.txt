@@ -1,0 +1,14 @@
+C:\Users\ehunt\source\repos\Receive\bin\Debug\netcoreapp2.2\Receive.deps.json
+C:\Users\ehunt\source\repos\Receive\bin\Debug\netcoreapp2.2\Receive.runtimeconfig.json
+C:\Users\ehunt\source\repos\Receive\bin\Debug\netcoreapp2.2\Receive.runtimeconfig.dev.json
+C:\Users\ehunt\source\repos\Receive\bin\Debug\netcoreapp2.2\Receive.dll
+C:\Users\ehunt\source\repos\Receive\bin\Debug\netcoreapp2.2\Receive.pdb
+C:\Users\ehunt\source\repos\Receive\obj\Debug\netcoreapp2.2\Receive.csproj.CoreCompileInputs.cache
+C:\Users\ehunt\source\repos\Receive\obj\Debug\netcoreapp2.2\Receive.AssemblyInfoInputs.cache
+C:\Users\ehunt\source\repos\Receive\obj\Debug\netcoreapp2.2\Receive.AssemblyInfo.cs
+C:\Users\ehunt\source\repos\Receive\obj\Debug\netcoreapp2.2\Receive.dll
+C:\Users\ehunt\source\repos\Receive\obj\Debug\netcoreapp2.2\Receive.pdb
+C:\Users\ehunt\source\repos\Receive\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\ehunt\source\repos\Receive\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\ehunt\source\repos\Receive\obj\Debug\netcoreapp2.2\Receive.csprojAssemblyReference.cache
+C:\Users\ehunt\source\repos\Receive\obj\Debug\netcoreapp2.2\Receive.csproj.CopyComplete
